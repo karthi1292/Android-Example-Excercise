@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">TagsTables</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Tag Notes</string>
+    <string name="title_activity_createote">Create Note</string>
+    <string name="title_activity_all_notes">All Notes</string>
+    <string name="title_activity_all_hash">Hash Tags</string>
+    <string name="title_activity_all_mention">Mention Tags</string>
+    <string name="title_activity_all_notesby_hash">AllNotesbyHash</string>
+    <string name="title_activity_all_notes_by_mention">AllNotesByMention</string>
+
+</resources>
